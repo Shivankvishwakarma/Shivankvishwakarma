@@ -1,3 +1,5 @@
+![Shivank-Vishwakarma](https://img.shields.io/badge/Shivank-Vishwakarma-blue)
+![Information-Technology](https://img.shields.io/badge/Information-Technology-red)
 - 👋 Hi, I’m @Shivankvishwakarma
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning New Technologies.
